@@ -1,4 +1,4 @@
-# cisco-pt
+# CISCO PACKET TRACER
 
 Aquí tienes una descripción en español para un archivo README de un repositorio de GitHub enfocado en Cisco Packet Tracer:
 
